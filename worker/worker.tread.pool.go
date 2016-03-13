@@ -1,7 +1,7 @@
 package worker
 
 import (
-	"github.com/grosunick/common/queue"
+	"github.com/grosunick/go-common/queue"
 	"sync"
 	"time"
 )
